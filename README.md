@@ -1,4 +1,3 @@
-Maxy-Paxy.github.io
+![ant mono](https://github.com/user-attachments/assets/9f1dc5ab-7e00-43be-884f-e7144ff5e16d)
 
-This site will eventually have a couple games.
-Bookmark this page for more info.
+Welcome to Maxy-Paxy.github.io
