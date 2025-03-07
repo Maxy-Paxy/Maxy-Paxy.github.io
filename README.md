@@ -1,3 +1,4 @@
-![ant mono](https://github.com/user-attachments/assets/9f1dc5ab-7e00-43be-884f-e7144ff5e16d)
+![ant mono](https://github.com/user-attachments/assets/e77a3bc7-4332-488d-9d54-7e33538fca19)
 
 Welcome to Maxy-Paxy.github.io
+
