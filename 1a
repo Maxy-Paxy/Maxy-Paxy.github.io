@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>MAXY_PAXY.github.io</h2>
+
+<p id="demo">Tsx</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello World"'>Click Me For Complicated Code</button>
+
+</body>
+</html>
